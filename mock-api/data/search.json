@@ -1,0 +1,189 @@
+[
+  {
+    "placeId": "ChIJsTMoRi0aBYgRZsgIjZmUwD0",
+    "photoReferences": [
+      "AcJnMuEUKyN3cBbX2dkqGSvhxOzd48eywqFr71NGPMe_97nElpZv1dcOv8cB1T_FFkumO2y50tc0lvjAG4hSJF5Yagtl8BOG61QgLcl6SkwFQYaIyatNFJ1aE793YrP5UEx_g4YVhpd1csLsCWJ5JxZrO9GM5vnrTR82YLGf20AGSaIIZ7Jp"
+    ],
+    "name": "Deco Café",
+    "address": "2308 W Wisconsin Ave, Milwaukee, WI 53233, United States",
+    "rating": 4.199999809265137,
+    "open": true,
+    "userRatingsTotal": 20
+  },
+  {
+    "placeId": "ChIJ__-_HisaBYgRfeCo4nZNNps",
+    "photoReferences": [
+      "AcJnMuGplsv9agnXF48Bs1Y58AYKpyk-mlrrqsb6g0Bx4b1jZ8ui_5n2RHHsyCkggIq52WXBGC9bb-3A7On4puUAmPhWWs21sppNV3GDuYAm84aa5jvtSaSOSy1SPV-ZcmqpC818FZvUB6c3A3Dfe8H4M4WeZhJa3AZKXHyCOHq0DM1ifsEU"
+    ],
+    "name": "The Daily Grind",
+    "address": "1801 W Wisconsin Ave, Milwaukee, WI 53233, United States",
+    "rating": 5.0,
+    "open": true,
+    "userRatingsTotal": 1
+  },
+  {
+    "placeId": "ChIJa9ki1YEZBYgRY_beKC_saNU",
+    "photoReferences": [
+      "AcJnMuFOTBxCPBI71_X7WoaJhffhzRlk29ZzjKAqa8mpQZMXcuTKoUekSATXsaZyct7S-qiHpUbvccedlp1XOoMsPwWAmvKWgtMz8pOmK4iFA-YSB8mr0ePjHV_1tvykMpts6ZQh5A3Ghl0dwyMq8T9iEmWP8OxN09yY-ZU9hLtewVMSzHfi"
+    ],
+    "name": "Marquette University The Brew at AMU",
+    "address": "1442 W Wisconsin Ave, Milwaukee, WI 53233, United States",
+    "rating": 4.400000095367432,
+    "open": true,
+    "userRatingsTotal": 27
+  },
+  {
+    "placeId": "ChIJz371x54ZBYgR9NlaU1fioyU",
+    "photoReferences": [
+      "AcJnMuEn98zi3d_h-DBXpj4DxZEJIb1MUYZe7u3z2_La9Vxl6T2AS9g4zCStAYQdyKL0LOPAN1klMolC0oLptccx0aM3cJFpRF9wVeLXpackG4T_L6tlRbp3D-dzrwBa0ViqLDVZyYlgKu-4FlbbuLLAGR0g9MvsiXRBK1EHXz6rX7kodhyv"
+    ],
+    "name": "Stone Creek Coffee - Factory Café",
+    "address": "422 N 5th St, Milwaukee, WI 53203, United States",
+    "rating": 4.699999809265137,
+    "open": true,
+    "userRatingsTotal": 893
+  },
+  {
+    "placeId": "ChIJJw2ozKIZBYgRhnlX3ULDrVw",
+    "photoReferences": [
+      "AcJnMuHqQJPCTcz6zm2U3Vne1_W4s0GIC0d3h-HOiXrV35fY-oVVS1XhLR2BZa_ppCBjOLqHwxW6RNqM025CBSGcZM5ZAY76rE7_XRZEdpQ9z7oacB21GuaoALHAe5HrobY1byIl_txZHvYHQq0zxOwY_TfZVIGuLaYUfY_NRjyrm9ABueRP"
+    ],
+    "name": "Full of Beans Cafe",
+    "address": "184 S 2nd St, Milwaukee, WI 53204, United States",
+    "rating": 4.800000190734863,
+    "open": true,
+    "userRatingsTotal": 135
+  },
+  {
+    "placeId": "ChIJPzQ0NYAZBYgRb5RQh2hKNTs",
+    "photoReferences": [
+      "AcJnMuHQLFoaCZNj3-rnMzQBeb8NtuoM1pZ-AUGUvWzdOwDhas3hq89o7fdDoOf9Zd_JL3Bg7BQcylF7huuwD3J5QsN_Tcji2kt5yS90wsFQzqdMiRMvU0JyYwyW_d2uOWQnanpXbEnLowmpOoCUlomlWIHTMV66WTVaIHbHTUzB6ptJ_u-d"
+    ],
+    "name": "Einstein Bros. Bagels",
+    "address": "1441 W Wisconsin Ave, Milwaukee, WI 53233, United States",
+    "rating": 3.299999952316284,
+    "open": true,
+    "userRatingsTotal": 15
+  },
+  {
+    "placeId": "ChIJMdI6M2cZBYgR1T5Rw-bZPdE",
+    "photoReferences": [
+      "AcJnMuGGx4Gz4AB6hzf_-5Ckc1a7X-tT2PXDNCqEZs8gbmhI-kjv3b8YRtMB4Eke0nc6iCIzPqeJY1lyHeBKmB6IcbKeQbqHSFXwWrT_PonEw5MavFKoYjErBZX-gI9xZ1WYmsNvLe8sNSvE4iMQvDGiI5rdli29JgmR5ohI-5DvNvy1ZtDL"
+    ],
+    "name": "Best Place Coffee & Spirits",
+    "address": "901 W Juneau Ave, Milwaukee, WI 53233, United States",
+    "rating": 4.900000095367432,
+    "open": true,
+    "userRatingsTotal": 33
+  },
+  {
+    "placeId": "ChIJrdkgIGIZBYgRiF3bhatBPro",
+    "photoReferences": [
+      "AcJnMuHxCgekruVOsUASnuiptD-oH8ORXHkmZ1GIgL9fdJg4xjZqKMcaLQmhxL3VKH4pZc_ZWzTzuhyzLb8B-Gm_FVow6pKCflj9OwtVyJbD_PsxUWmo-hlcJlnpv1qyYgHSXa7PD46DA1yX8D07CsalKS80Hry8PHGeUog_FLtjJSW5bZ9C"
+    ],
+    "name": "Canary Coffee Bar",
+    "address": "720 N Doctor M.L.K. Jr Dr, Milwaukee, WI 53203, United States",
+    "rating": 4.699999809265137,
+    "open": true,
+    "userRatingsTotal": 354
+  },
+  {
+    "placeId": "ChIJp5ih0rwZBYgRRXekVyZsrUg",
+    "photoReferences": [
+      "AcJnMuE1pcuyxc5XEOQtERzuATwlNLzKZobvdGkP4RUvCxsSVCy1ZWGxJekbwo8wPFz8RkrMoUAV5GqY2Kh2p6ItUFIDJmCsVtGKwm106vUZIH5usR6_0OObFkTTdtTpU32C_nrLG1dGST3P-V61slU2YHMmGeDuk9-3qRbYx18F24T60y5k"
+    ],
+    "name": "Colectivo Coffee at the Foundry",
+    "address": "170 S 1st St, Milwaukee, WI 53204, United States",
+    "rating": 4.599999904632568,
+    "open": true,
+    "userRatingsTotal": 597
+  },
+  {
+    "placeId": "ChIJjz8po6YZBYgRkX74OIL3NQw",
+    "photoReferences": [
+      "AcJnMuHCSemVfMj51gdjvDJI9ll0cBp3e5TjSJZMGFmp6tbxE3AqrS8rpm6mj8RmDLsVUi87FW4YmYMg-Hl8c6U1kq-EG1X7luDiAVnbFFGHlYjS-qJ0_xS6aZljfMlyCLpCkiWkt5ieqo4XxAZLWdlrO72TIkbVSarQx7j0l2D_EnI8KPA0"
+    ],
+    "name": "Colectivo Coffee of the Third Ward",
+    "address": "223 E St Paul Ave, Milwaukee, WI 53202, United States",
+    "rating": 4.5,
+    "open": true,
+    "userRatingsTotal": 652
+  },
+  {
+    "placeId": "ChIJz_sty3cZBYgRcQc2cYPv9WA",
+    "photoReferences": [
+      "AcJnMuG_Rm8cfNiqdXtIGB36CACKKS2WOvMLyCvokFAMhxy6QghB4JP82L_GqjCGd8l3mHUnuo3iVRe7gP3-t7r0FfC1sWY1YVU4dOF0uoqLhHnq4Eqpc46vIEbl23yPb53jP0HeXUAxPfzLMEQWYnDC3dsC7fFTQR5cH3cKFuke4VQ3a7Lc"
+    ],
+    "name": "The Café at MPM",
+    "address": "800 W Wells St, Milwaukee, WI 53233, United States",
+    "rating": 3.9000000953674316,
+    "open": true,
+    "userRatingsTotal": 23
+  },
+  {
+    "placeId": "ChIJx8RjADoZBYgRSGrGZPjTILg",
+    "photoReferences": [
+      "AcJnMuFOxCHLz3mdSVxjNeusqlxRpYQMNOfmSx31D3o4TjRTl0Fw4axfB_VCxTTwZfUDqbQrWU3qlwc_hFfl0GZqti0OU3hzZh-xSOKDcXD0TtZ0LmMQiUjnV6pTD_g2OZkAqLQAr2xq80ArcWDnR4iw1cZ5gx3-Bu0rNAjMNGBgXn1jyn7h"
+    ],
+    "name": "Fairgrounds Coffee and Tea",
+    "address": "916 E State St, Milwaukee, WI 53202, United States",
+    "rating": 4.300000190734863,
+    "open": true,
+    "userRatingsTotal": 347
+  },
+  {
+    "placeId": "ChIJnd_S5b0ZBYgRnCfTVnUe_qQ",
+    "photoReferences": [
+      "AcJnMuELtBmP_-rvOgGLoOWidtBszyrgA_npvqEm7v-xSj4wR3ST4LU0yLFpYmoEFcH3-U1ThNDWu15tRgsrNpPub-PwRsz9k0X78-rM220DS81HOBWNlE6RWGyUuxMZsh1H_ZwAZD326GPpucs34P2b29ItUk7H0G5qbpCaacCsoDk8JIaF"
+    ],
+    "name": "Anodyne Coffee Roasting Co.",
+    "address": "224 W Bruce St, Milwaukee, WI 53204, United States",
+    "rating": 4.699999809265137,
+    "open": true,
+    "userRatingsTotal": 904
+  },
+  {
+    "placeId": "ChIJ05P8OwwZBYgRL8Zoido8mVE",
+    "photoReferences": [
+      "AcJnMuHUoRHfBTdrFDZO8fP2hNxxcxgV71vwQo4jyj2lxFuj__aiRoonzZBs0ffnXR6pMKsctXH43h_TVsjX2XZMACHEdqgdnneS53i9kFdZpPTPSZLjKyjj7F7vDneJlKgvlwmCzTyQdIO-EaeZV86edHY5GqMvNpyWFBUd9u7PvW8WpXUd"
+    ],
+    "name": "Grace Place Coffee",
+    "address": "250 E Juneau Ave, Milwaukee, WI 53202, United States",
+    "rating": 4.699999809265137,
+    "open": true,
+    "userRatingsTotal": 54
+  },
+  {
+    "placeId": "ChIJXymzhaQZBYgR6yhcJflbGOk",
+    "photoReferences": [
+      "AcJnMuEudhlSNrPAMr80EjmogjpdWAI2zJZnDG2NgYbR2SU_6SfuxF0UvVFcZp48fQnsBKDuYr2ee_Jf20rofqIFmstNDzISDdqAB1XG58fnUPxDFlvgCQOanG4BAhmjSMi2Z0Cpp8lTFOSbFLfn7n1MPG_gbKhB-_tGZ4IUwO0W9WbgNS4R"
+    ],
+    "name": "Likewise Coffee - Milwaukee",
+    "address": "232 E Erie St, Milwaukee, WI 53202, United States",
+    "rating": 4.699999809265137,
+    "open": true,
+    "userRatingsTotal": 611
+  },
+  {
+    "placeId": "ChIJ2znHYU4bBYgRWI1HH3rEyUk",
+    "photoReferences": [
+      "AcJnMuHu_8dgz03_-x6z2XJFClbJdxiPhcqAHbSspGScvCxVFVuHoZTN-N93rcr9HedDXn56N9xH2HEmIMlu97Add2GGDT6r74gSdbKdS3KU5XzmL7z761yl05lTTqGcbGaVXrAOyvJHkOg1stJjMXE0Y9rdCaj85ZVqHq_dn1lxZ8Kz3dPy"
+    ],
+    "name": "Sweet (Suite) Black Coffee Cafe/Lounge",
+    "address": "2035 W Fond du Lac Ave, Milwaukee, WI 53205, United States",
+    "rating": 5.0,
+    "open": true,
+    "userRatingsTotal": 5
+  },
+  {
+    "placeId": "ChIJBaKGo2wZBYgRSF7HJxofXNo",
+    "photoReferences": [
+      "AcJnMuHqUwVmCU04QKdz0vrdS4jNfkjUB36etHJvZGXAO-AayrNRgGgzp8eYIyZ_QlYPhBXz8L-F24BuoNt-eUN8MlX0zXiTMwT2e68lHlng6AETWn3XEVqIMk7p5-dJ0NMkFLkclJFT_j2A-7iyIWp9Tc9ES-67L22SoR2lpqA-BYMjelUk"
+    ],
+    "name": "Pilcrow Coffee",
+    "address": "416 W Walnut St, Milwaukee, WI 53212, United States",
+    "rating": 4.800000190734863,
+    "open": true,
+    "userRatingsTotal": 289
+  }
+]
