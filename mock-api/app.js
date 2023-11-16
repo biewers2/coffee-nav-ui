@@ -23,7 +23,11 @@ app.get('/api/search', (_, res) => {
   res.status(200).send(getData('search'))
 })
 
-app.get('/api/photos/:reference', (req, res) => {
+app.get('/api/place/:id', (req, res) => {
+  res.status(200).send(getData(`places/${req.params.id}`))
+})
+
+app.get('/api/place/photo/:reference', (req, res) => {
   res.status(200).send(getResource(req.params.reference))
 })
 
