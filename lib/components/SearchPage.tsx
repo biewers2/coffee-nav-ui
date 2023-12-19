@@ -2,17 +2,16 @@ import { Dialog, Icon, SearchBar, Text } from '@rneui/themed';
 import { useEffect, useState } from "react";
 import { StyleSheet, View } from "react-native";
 import SearchResults from '../components/SearchResults';
-import { Place } from '../models/Place';
-import placesService from '../services/PlacesService';
+import placesService, { SearchPlacesResults } from '../services/PlacesService';
 
 export default function SearchPage() {
-  let [query, setQuery] = useState('')
-  let [results, setResults] = useState([] as Place[])
+  let [results, setResults] = useState({ places: [] } as SearchPlacesResults)
   let [showError, setShowError] = useState(false)
 
   let findCoffee = async () => {
     let results = await placesService.searchCoffeePlaces()
-    setShowError(results == null)
+    console.log(results?.location)
+    setShowError(results === null)
     if (results) {
       setResults(results)
     }
@@ -23,13 +22,6 @@ export default function SearchPage() {
 
   return (
     <View style={styles.view}>
-      <SearchBar
-        placeholder="Location Search"
-        inputContainerStyle={styles.inputContainerStyle}
-        onChangeText={text => setQuery(text)}
-        onSubmitEditing={findCoffee}
-        value={query}
-      />
       {/* <SearchActions/> */}
       <SearchResults results={results}/>
 
